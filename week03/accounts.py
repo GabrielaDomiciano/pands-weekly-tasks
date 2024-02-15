@@ -7,7 +7,7 @@
 
 # Mask the first 6 digits with Xs and display the last 4 digits
 
-# sources: Youtube Chanel PromoAmbitions- Python String Tutorial
+# sources: Youtube Chanel PromoAmbitions- Python String Tutorial and w3schools
 
 
 
@@ -17,7 +17,7 @@ print ('XXXXXX{}' .format (last_four_number))
 
 
 
-# diferenbt length
+# diferenbt length  
 
 account_number_input = input("Enter the 5-character account number: ")
 last_two_number = account_number_input[-2:]
