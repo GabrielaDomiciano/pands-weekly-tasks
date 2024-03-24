@@ -1,6 +1,6 @@
 # Gabriela Domiciano
 # Write a program that outputs whether or not today is a weekday.
-# sources: weebsite: Tutorials point, SheCodes,  
+# sources: weebsite: Tutorials point, SheCodes.
 
 
 import datetime
