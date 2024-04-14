@@ -13,7 +13,7 @@ the week07 folder, or if it was to put a sentence on a line and make the code
 
 '''
 
-# open file file 2: I created the file2 using a text in a command line as a base.
+# open file moby-dick2: I created the moby-dick2 using a text in a command line as a base.
 
 with open("moby_dick.txt", "r") as file:
     lines = file.readlines()

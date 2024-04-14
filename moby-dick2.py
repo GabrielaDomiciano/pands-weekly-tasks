@@ -10,7 +10,7 @@ I didn't understand if it was to create a txt file as explained in the class, in
 the week07 folder, or if it was to put a sentence on a line and make the code
 
 '''
-# open file1: I created the file1  using a txt file as a reference.
+# open moby-dick1: I created the moby-dick1  using a txt file as a reference.
 
 
 moby_dick = 'Better to sleep with a sober cannibal than a drunk  Christian'
