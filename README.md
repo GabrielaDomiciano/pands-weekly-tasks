@@ -15,13 +15,19 @@ During the 8 weeks of the programming and Scripting course, we developed tasks p
 To be able to follow and understand the codes you will need to install Python on your computer.
 You can install Anaconda, on the website you will find a free package and management environment that includes all the necessary packages and libraries for Python programming language.
 
+
 Anaconda weeb site:[Anaconda](https://www.anaconda.com).
+
 Pyhton weeb site:[Pyhton](https://www.python.org).
 
 Python libraries are useful functions and modules that reduce code usage in the program.
+
 Pandas:[pandas](hthttps://pandas.pydata.org).
+
 Numpy:[Numpy](https://numpy.org)
+
 datetime
+
 Matplotlib:[Matpltlib](https://matplotlib.org)
 
 The editor I used to create Python scripts:[VsCode](https://code.visualstudio.com)
