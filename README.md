@@ -20,4 +20,4 @@ Pyhton weeb site:[Pyhton](https://www.python.org).
 
 
 
-![Python](https://i.pinimg.com/originals/91/94/c9/9194c978fa63798b2e882e6fda5eb953.png)
+![Python](https://engenharia360.com/wp-content/uploads/2019/04/python-engenharia360-3-1024x512.png)
