@@ -22,7 +22,7 @@ You can install Anaconda, on the website you will find a free package and manage
 
 Python libraries are useful functions and modules that reduce code usage in the program.
 
-- Pandas: [pandas](hthttps://pandas.pydata.org)
+- Pandas: [Pandas](https://pandas.pydata.org)
 
 - Numpy: [Numpy](https://numpy.org)
 
