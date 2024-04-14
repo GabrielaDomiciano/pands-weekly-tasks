@@ -13,7 +13,7 @@ I study at [ATU](https://www.atu.ie).
 ### Introduction
 During the 8 weeks of the programming and Scripting course, we developed tasks proposed by the teacher, in these 8 weeks we learned how to use Pyhton, each week we were given classes and ended with the tasks. In this project you will be able to see all the proposed tasks and the evolution of learning.
 
-### Installation
+### Installation 🛠️
 To be able to follow and understand the codes you will need to install Python on your computer.
 You can install Anaconda, on the website you will find a free package and management environment that includes all the necessary packages and libraries for Python programming language.
 
@@ -32,7 +32,7 @@ Python libraries are useful functions and modules that reduce code usage in the 
 
 The editor I used to create Python scripts: [Visual Studio Code](https://code.visualstudio.com)
 
-### Contributing
+### Contributing 💬
 If you are interested in sharing any comments, please get in touch by email at gabriela.d@hotmail.com.
 
 
