@@ -11,7 +11,7 @@ def sqrt(number):
         return "Don't accept negative number"
 
     if number == 0:
-        return 0 # raiz de 0 e 0
+        return 0 #  0 = 0
 
     x = number
     # root = 0.5 * (X + (N / X))
@@ -32,11 +32,4 @@ result = sqrt(number)
 print(f"The square root of {number} is approx. {result}")
 
 
-# number = 9 
-# x = 9, root = 5
-# x = 5, root = 3.4 - 3.4-5 = 1.6
-# x = 1.6 root = 3.61 - 3.61 - 1.6 = 2.01
-# x = 2.01 root = 3.24 - 3.24 - 2.01 = 1.23
-# x = 1.23 root = 4.27- 4.27 - 1.23 = 3.04
-#
 
