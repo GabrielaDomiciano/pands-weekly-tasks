@@ -4,26 +4,39 @@
 # Write a program that takes
 # a positive floating-point number as input and outputs an approximation of its square root.
 
-def apx(number):
+#sources: Weeb Site- https://www.geeksforgeeks.org/find-root-of-a-number-using-newtons-method/
+
+def sqrt(number):
     if number < 0:
-        return "Dont acept negative number"
+        return "Don't accept negative number"
 
     if number == 0:
-        return 0
+        return 0 # raiz de 0 e 0
 
-    guess = number / 2
-    epsilon = 0.000001  # Tolerance level for approximation
+    x = number
+    # root = 0.5 * (X + (N / X))
+    tolerance = 0.00001
 
     while True:
-        new_guess = (guess + number / guess) / 2
-        if abs(new_guess - guess) < epsilon:
-            return new_guess
-        guess = new_guess
+        print(" x = ", x)
+        root = 0.5 * (x + (number/x))
+        print("root=", root)
+        if (abs(root - x) < tolerance) :
+            break
+        x = root
 
-def main():
-    input_number = float(input("Enter a positive number: "))
-    result = apx(input_number)
-    print("Approximation of square root:", result)
+    return root 
 
-if __name__ == "__main__":
-    main()
+number = float(input("Please enter a positive number: "))
+result = sqrt(number)
+print(f"The square root of {number} is approx. {result}")
+
+
+# number = 9 
+# x = 9, root = 5
+# x = 5, root = 3.4 - 3.4-5 = 1.6
+# x = 1.6 root = 3.61 - 3.61 - 1.6 = 2.01
+# x = 2.01 root = 3.24 - 3.24 - 2.01 = 1.23
+# x = 1.23 root = 4.27- 4.27 - 1.23 = 3.04
+#
+

@@ -14,15 +14,14 @@
 
 
 
-account_number_input = input("Enter the 10-character account number: ")
-last_four_number = account_number_input[-4:]
+account_number = input("Enter the 10 character account number: ")
+last_four_number = account_number[-4:]
 print ('XXXXXX{}' .format (last_four_number))
 
 
+# diferenbt account number
 
-# diferenbt length  
-
-account_number_input = input("Enter the 5-character account number: ")
-last_two_number = account_number_input[-2:]
+account_number = input("Enter the 5 character account number: ")
+last_two_number = account_number[-2:]
 print ('XXXXXX{}' .format (last_two_number))
        
