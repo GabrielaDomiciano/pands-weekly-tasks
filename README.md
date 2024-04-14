@@ -1,5 +1,7 @@
 <h1 align="center"> Pands Weekly Tasks </h1>
 
+![Python](https://engenharia360.com/wp-content/uploads/2019/04/python-engenharia360-3-1024x512.png)
+
 ## Higher Diploma in Science in Data Analytics
 ## Subject: Programming and Scripting
 ## Teacher: Andrew Beatty
@@ -26,8 +28,6 @@ Python libraries are useful functions and modules that reduce code usage in the 
 
 - Numpy: [Numpy](https://numpy.org)
 
-- Datetime
-
 - Matplotlib: [Matpltlib](https://matplotlib.org)
 
 The editor I used to create Python scripts: [Visual Studio Code](https://code.visualstudio.com)
@@ -36,4 +36,3 @@ The editor I used to create Python scripts: [Visual Studio Code](https://code.vi
 If you are interested in sharing any comments, please get in touch by email at gabriela.d@hotmail.com.
 
 
-![Python](https://engenharia360.com/wp-content/uploads/2019/04/python-engenharia360-3-1024x512.png)
