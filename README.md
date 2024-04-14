@@ -1,3 +1,6 @@
+
+![Python](https://i.pinimg.com/originals/91/94/c9/9194c978fa63798b2e882e6fda5eb953.png)
+
 <h1 align="center"> Pands-weekly-tasks </h1>
 
 ## Higher Diploma in Science in Data Analytics
