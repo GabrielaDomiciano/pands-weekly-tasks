@@ -1,6 +1,9 @@
-# Weekly Task 03
 # Author Gabriela Domiciano
+# Weekly Task 03
 
+# Write a python program called accounts.py that reads in a 10 character account number 
+# and outputs the account number with only the last 4 digits
+# showing (and the first 6 digits replaced with Xs).
 
 # Account_number = 1234567890
 # First start with 0 and not with 1

@@ -1,17 +1,19 @@
 # Gabriela Domiciano
+# Weekly Task 05
+
 # Write a program that outputs whether or not today is a weekday.
-# sources: weebsite: Tutorials point, SheCodes.
+# sources: Youtube Chanel:  Tutorials point, SheCodes.
 
 
 import datetime
 
 def is_weekday():
     
-    today = datetime.datetime.today()  # Get the today date
+    today = datetime.datetime.today()  
     
-    day_of_week = today.weekday()  # Get the week day (0 Monday, 1 Tuesday etc)
+    day_of_week = today.weekday() 
     
-    return day_of_week < 5  # Check if is a weekday (Monday to Friday)
+    return day_of_week < 5  
 
 if __name__ == "__main__":
     if is_weekday():
