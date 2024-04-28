@@ -19,7 +19,7 @@ def sqrt(number):
     # root = 0.5 * (X + (N / X))
     tolerance = 0.00001
 # Starts  loop that continues until the desired precision is achieved
-#
+
     while True:
         print(" x = ", x)
         root = 0.5 * (x + (number/x))
