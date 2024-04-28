@@ -6,14 +6,14 @@
 
 
 import datetime
-
+# It defines a function that checks if the current day is a weekday.
+# 0 for Monday, 1 for Tuesday, ..., 6 for Sunday
 def is_weekday():
     
     today = datetime.datetime.today()  
-    
     day_of_week = today.weekday() 
-    
     return day_of_week < 5  
+# It returns True if the day of the week is less than 5
 
 if __name__ == "__main__":
     if is_weekday():
