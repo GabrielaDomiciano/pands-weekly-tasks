@@ -12,9 +12,11 @@
 
 number = int(input("enter number: "))
 
-
+#  The loop stops when the number becomes 1
+# at the point the conditionis no longer met, and the loop stops.
 while number != 1 :
     if (number % 2) == 0: 
+        # removes any decimal part
         number = number //2
         #numbers.append(number)
         print (number)

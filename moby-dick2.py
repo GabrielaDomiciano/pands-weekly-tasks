@@ -3,6 +3,7 @@
 
 #Counting how many letters E in the TXT file "moby_dick.txt"
 #This code will convert the letter E to lowercase, to ensure that both 'E' and 'e' are counted.
+
 #sources: Youtube Chanel: Cabral Engineering, Hashtag Programacao.
 '''
 In the weekly_task description it is asked to get an argument on the command line, 

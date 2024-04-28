@@ -15,9 +15,11 @@ the week07 folder, or if it was to put a sentence on a line and make the code
 
 # open file moby-dick2: I created the moby-dick2 using a text in a command line as a base.
 
+# with ensures that the file is properly closed after 
 with open("moby_dick.txt", "r") as file:
     lines = file.readlines()
 
+# iterates over each line in the lines list.
 quantity = 0
 
 for line in lines:

@@ -1,5 +1,6 @@
 # Author Gabriela Domiciano
 # Weekly Task 03
+# sources: Youtube Chanel PromoAmbitions- Python String Tutorial and w3schools
 
 # Write a python program called accounts.py that reads in a 10 character account number 
 # and outputs the account number with only the last 4 digits
@@ -10,9 +11,9 @@
 
 # Mask the first 6 digits with Xs and display the last 4 digits
 
-# sources: Youtube Chanel PromoAmbitions- Python String Tutorial and w3schools
 
 
+# Masking the rest of the account number for security or privacy reasons.
 
 account_number = input("Enter the 10 character account number: ")
 last_four_number = account_number[-4:]
