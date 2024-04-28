@@ -10,7 +10,7 @@
 
 I study at [ATU](https://www.atu.ie).
 
-### Introduction
+### Introduction 👋
 During the programming and Scripting course, we developed tasks proposed by the teacher, in these weeks, we learned how to use Python, each week we were given classes and ended with the tasks. In this project, you will be able to see all the proposed tasks and the evolution of learning.
 
 ### Installation 🛠️
